@@ -1,0 +1,31 @@
+[
+    {
+        "data": {
+            "createRepl": {
+                "id": "{uuid-string}",
+                "url": "/@{user_name}/{replit_name}",
+                "title": "{replit_name}",
+                "iconUrl": "https://storage.googleapis.com/replit/images/1664475603315_1442b3c69cc612aff6ef60cce0c69328.jpeg",
+                "templateLabel": "{replit_name}",
+                "nixedLanguage": null,
+                "isPrivate": false,
+                "isRenamed": false,
+                "language": "nix",
+                "likeCount": 0,
+                "description": null,
+                "deployment": null,
+                "owner": {
+                    "id": 2294454,
+                    "username": "{user_name}",
+                    "__typename": "User",
+                    "image": "{profile_picture_url}",
+                    "url": "/@{user_name}"
+                },
+                "templateCategory": null,
+                "releasesForkCount": 0,
+                "publishedAs": null,
+                "__typename": "Repl"
+            }
+        }
+    }
+]
