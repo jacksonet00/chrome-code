@@ -1,0 +1,11 @@
+{
+  "name": "chrome-code",
+  "version": "1.0.0",
+  "description": "Paste a code snippet to quickly generate a Gist or Replit URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
